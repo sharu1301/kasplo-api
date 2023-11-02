@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: webserver
-        image: kasplo-api:latest
+        image: sharukdoc/kasplo-api:latest
         ports:
         - containerPort: 80
